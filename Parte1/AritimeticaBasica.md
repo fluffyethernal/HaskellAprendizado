@@ -27,7 +27,7 @@ Repare que a operação de divisão (/) foi feita usando números do tipo float,
 
 Por exemplo, as operaççoes abaixo emitirá erros de compilação:
 
-`` haskell
+```` haskell
 3 / 2
 50 / 2
-``
+````
