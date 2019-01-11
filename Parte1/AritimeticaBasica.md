@@ -40,7 +40,7 @@ Sim, utilize os caracters `` em volta da palavra "div" conforme o exemplo abaixo
 50 `div` 2
 ````
 
-Achou esse metódo muito feio e trabalhoso? Pois é... ele é de fato. Por isso existe uma maneira mais ágil de realizar a mesma divisão de números inteiros. Veja o exemplo abaixo:
+Achou esse método muito feio e trabalhoso? Pois é... ele é de fato. Por isso existe uma maneira mais ágil de realizar a mesma divisão de números inteiros. Veja o exemplo abaixo:
 
 ```` haskell
 div 3 2
