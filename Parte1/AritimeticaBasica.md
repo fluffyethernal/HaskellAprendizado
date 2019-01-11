@@ -33,7 +33,7 @@ Por exemplo, as operaççoes abaixo emitirá erros de compilação:
 ````
 
 Para que a divisão de números inteiros seja possível em Haskell devemos utilizar `div`.
-Sim, utilize os caracters ` ` em volta da palavra "div" conforme o exemplo abaixo.
+Sim, utilize os caracters `` em volta da palavra "div" conforme o exemplo abaixo.
 
 ```` haskell
 3 `div` 2
